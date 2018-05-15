@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Scheiße, wo sind denn alle hin?
+Du suchst nach einem Weg, mit der ehemaligen Stupidedia-Community in Kontakt zu kommen, aber Wiki und Forum sind tot? Dann hast du Glück, denn auch wenn das Projekt Stupidedia ein Ende gefunden hat: Uns zerreißt so schnell nichts!
 
-You can use the [editor on GitHub](https://github.com/mart-w/stupidedia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nachfolgend deswegen Möglichkeiten, doch noch mit uns in Kontakt zu kommen. Bedenke: All dies ist inoffiziell. Wir garantieren keine Verfügbarkeit und sehen uns niemandem außer uns selbst verpflichtet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Discord
+Im Moment hat sich als Treffpunkt unserer Mitglieder ein Discord-Server etabliert, auf dem einige der ehemaligen Stupidedia-Mitglieder aktiv sind. Mehr Informationen zu Discord findest du auf https://discordapp.com. Bedenke, dass wir weder für die Inhalte hinter diesem Link noch für Discords Handeln verantworlich sind; mit der Nutzung von Discord erklärst du dich mit deren Bedingungen einverstanden.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mart-w/stupidedia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+{% raw %}
+<iframe src="https://discordapp.com/widget?id=304644678509395968&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+{% endraw %}
