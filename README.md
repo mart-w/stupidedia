@@ -9,7 +9,7 @@ Im Moment hat sich als Treffpunkt unserer Mitglieder ein Discord-Server etablier
 Auf den Server kommst du entweder über den Link [https://discord.gg/V3cxcK4](https://discord.gg/V3cxcK4) oder indem du im folgenden Widget auf „Connect“ klickst.
 
 {% raw %}
-<iframe src="https://discordapp.com/widget?id=304644678509395968&theme=dark" height="400" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=304644678509395968&theme=dark" height="200" allowtransparency="true" frameborder="0"></iframe><br>
 {% endraw %}
 
 ## E-Mail
