@@ -1,0 +1,2 @@
+# stupidedia
+Kontaktmöglichkeit für Stupidedianer.
